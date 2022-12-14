@@ -237,8 +237,8 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
-  display: block; 
+  color: rgb(178, 178, 178);
+  display: block;
   line-height: 100%;
   padding: 10px 0 12px;
 }
