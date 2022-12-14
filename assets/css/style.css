@@ -11,12 +11,12 @@
   /* background-size: cover;  */
   margin: -31px;
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4);
+  border: 6px solid rgba(178, 178, 178, 0.4);
   border-radius: 50% !important;
 }
 
 .profile-pic img {
-  width: 100%;
+  width: 110%;
   height: auto;
 }
 
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(178, 178, 178);
+  color: rgb(16, 202, 56);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
