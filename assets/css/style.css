@@ -616,6 +616,12 @@ small {
   }
 }
 
+@media (min-width: 1200px) {
+  #skills .container {
+    width: 860px;
+  }
+}
+
 @media (max-width: 1360px) {
   .card ul li {
     font-size: 14px;
