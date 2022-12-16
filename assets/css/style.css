@@ -437,6 +437,18 @@ h3 {
 #projects .card .col.s12.m2 a img {
   max-height: 60px;
 }
+#skills .card-action {
+  background-color: rgba(0, 0, 0, 0.02);
+  border: none;
+}
+
+#skills .card .col.s12.m2 a {
+  display: block;
+}
+
+#skills .card .col.s12.m2 a img {
+  max-height: 60px;
+}
 
 .card-action span {
   font-size: 85%;
@@ -521,6 +533,10 @@ a.hoverline:hover {
   border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
 }
+#skills .card-content .row {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
 
 .card.large .card-image {
   height: 230px;
@@ -548,6 +564,9 @@ a.hoverline:hover {
   text-align: center;
 }
 #projects .col.s12.m2 {
+  text-align: center;
+}
+#skills .col.s12.m2 {
   text-align: center;
 }
 
@@ -703,6 +722,13 @@ small {
     display: block;
   }
   #projects span.card-title a {
+    margin: 0;
+  }
+  #skills span.card-title {
+    text-align: center;
+    display: block;
+  }
+  #skills span.card-title a {
     margin: 0;
   }
   i.mdi-navigation-close.right {
