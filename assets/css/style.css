@@ -27,19 +27,13 @@
   margin-left: 100%;
 }
 
-/*.langue {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}*/
 
-.langue h6 {
-  margin: 0 5px;
-}
 
 .langue a{
+  margin: 0 5px;
   cursor: pointer;
   color: #B2B2B2;
+  text-decoration: none;
 }
 
 .tracker {
